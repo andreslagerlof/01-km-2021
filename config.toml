@@ -33,7 +33,7 @@ enableEmoji = true
   description = "En sajt där du håller dig informerad om FFF:s KM 2021."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  mainSections = ["blog"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
