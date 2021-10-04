@@ -15,7 +15,7 @@ Och så här ser poänfördelningen ut:
 | Placering | Poäng |
 |-----------|-------|
 | 1         | 25    |
-| 2         | 20    |
+| 2         | 22    |
 | 3         | 19    |
 | 4         | 17    |
 | 5         | 15    |

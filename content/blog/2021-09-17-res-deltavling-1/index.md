@@ -41,7 +41,7 @@ Här är den fullständiga resultatlistan.
   <tr>
    <td style="text-align:left;"> Tor Forsse </td>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 22 </td>
+   <td style="text-align:right;"> 20 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> CH Wendt </td>
@@ -120,4 +120,3 @@ Här är den fullständiga resultatlistan.
   </tr>
 </tbody>
 </table>
-
