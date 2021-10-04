@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "FFF"
   orgLocal = "Stockholm"
   description = "En sajt där du håller dig informerad om FFF:s KM 2021."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/favicon-16x16.png"
+  logo = "/img/fff_logo_50pct.png"
   mainSections = ["blog", "rules"]
   navallcaps = true
   # show/hide social icons in site header & footer
