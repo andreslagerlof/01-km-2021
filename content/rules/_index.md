@@ -6,13 +6,13 @@ cascade:
   show_comments: false
   show_post_date: true
   sidebar:
-    show_sidebar_adunit: false
+    show_sidebar_adunit: true
     text_link_label: View recent posts
     text_link_url: /blog/
 description: "Här hittar du regler och poänsystem som gäller för KM."
 layout: list-grid
-show_author_byline: true
-show_post_date: true
+show_author_byline: false
+show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: Sportcheferna
