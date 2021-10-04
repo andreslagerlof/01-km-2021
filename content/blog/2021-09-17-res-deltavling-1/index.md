@@ -1,0 +1,17 @@
+---
+title: Resultat från den första deltävlingen
+author: ''
+date: '2021-09-17'
+slug: res-deltavling-1
+categories: []
+tags: []
+excerpt: Äntligen igång! 17 entusiastiska fäktare gjorde upp i den första deltävlingen för året. Läs mer så förstår ni varför Karsten ser så glad ut!
+---
+
+Igår torsdags (16 september) var den långa väntan till ända och inte mindre än 17 förväntansfulla fäktare kastade sig med liv och lust in i kampen. Särskilt roligt att notera är att flera av de yngre som Eden, Lukas, Holger, Fancesco och Ian skakat av sig blygseln och tog sig an de gamla rävarna med full glöd.
+
+Ingen kan väl ha undgått Åsas återkomst? Med topplaceringar i de senaste tävlingarna var det självklart att åsynen av Åsa som motståndarefick många nerver att skaka. Och mycket riktigt svepte hon hem en fin 5:e plats.
+
+Många gladde sig också över att återigen få träffa Darius, Fernado och Hugo, som varit borta från FFF en tid. Darius presenterade sig myndigt med en 4:e plats. När kampen närmade sig slutet drabbade kvällens giganter i form av Tor och Karsten ihop i en holmgång som sent ska glömmas. Karsten tog ett resolut grepp om matchen med en, till synes ointagligt 4-0 ledning. Tor vägrade dock att låta sig avfärdas så lätt och kämpade sig till en kvittering till 4-4. Därefter stod matchen och vägde innan Karsten, efter en dubbelstöt, lyckades avgöra till sin fördel.
+
+Här är den fullständiga resultatlistan.
