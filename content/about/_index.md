@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Välkommen"
 description: |
-  A Hugo theme made for R Markdown users.
+  Väkommen till FFF:s KM 2021x  
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
