@@ -33,7 +33,7 @@ enableEmoji = true
   description = "En sajt där du håller dig informerad om FFF:s KM 2021."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog"]
+  mainSections = ["blog", "rules"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -116,10 +116,10 @@ enableEmoji = true
   #  url = "/project/"
   #  weight = 3
   [[menu.header]]
-  #  name = "Talks"
-  #  title = "Talks"
-  #  url = "/talk/"
-  #  weight = 4
+    name = "Regler"
+    title = "regler"
+    url = "/rules/"
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]
