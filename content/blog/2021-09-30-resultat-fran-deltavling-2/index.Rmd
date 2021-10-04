@@ -20,7 +20,7 @@ library(kableExtra)
 # Prepare data ---------------------------------------
 
 # Load data
-km <- read_excel(here("data", "placeringar KM 2021.xlsx"))
+km <- read_csv(here("data", "placeringar_km_2021_2.csv"))
 
 # Make tidy data
 km_clean <- km %>%
