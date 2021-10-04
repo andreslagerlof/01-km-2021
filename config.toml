@@ -101,8 +101,8 @@ enableEmoji = true
 
 [menu]
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
+    name = "Välkommen"
+    title = "Välkommen till KM 2021"
     url = "/about/"
     weight = 1
   [[menu.header]]
