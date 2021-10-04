@@ -1,8 +1,8 @@
 baseURL = "/"
 theme = "hugo-apero"
-languageCode = "en"
-title = "Personal website of Emily Cooper"
-author = "Emily Cooper"
+languageCode = "se"
+title = "FFF KM 2021"
+author = "FFF Sportchefer"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
@@ -28,9 +28,9 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  orgName = "FFF"
+  orgLocal = "Stockholm"
+  description = "En sajt där du håller dig informerad om FFF:s KM 2021."
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -41,14 +41,14 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/papillons.jpg"
+  sharing_image = "/img/fff_logo_50pct.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "apreshill"
+  #twitter = "apreshill"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "violet"
+  theme = "sky"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -74,25 +74,25 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-      icon      = "github" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
+  #    icon      = "github" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://github.com/apreshill/apero"
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
   [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+  #    icon      = "instagram" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://www.instagram.com/explore/tags/apero/"
   [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+  #    icon      = "twitter" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://twitter.com/hashtag/apéro"
   [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+  #    icon      = "rss" # icon name without the 'fa-'
+  #    icon_pack = "fas"
+  #    url       = "/blog/index.xml"
 
 [taxonomies]
   category = "categories"
@@ -111,15 +111,15 @@ enableEmoji = true
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
+  #  name = "Projects"
+  #  title = "Project Portfolio"
+  #  url = "/project/"
+  #  weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
+  #  name = "Talks"
+  #  title = "Talks"
+  #  url = "/talk/"
+  #  weight = 4
     
   # Configure footer  
   [[menu.footer]]
@@ -128,10 +128,10 @@ enableEmoji = true
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+  #  name = "Contact"
+  #  title = "Contact form"
+  #  url = "/contact/"
+  #  weight = 2
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
