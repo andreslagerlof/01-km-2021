@@ -117,7 +117,7 @@ enableEmoji = true
   #  weight = 3
   [[menu.header]]
     name = "Regler"
-    title = "regler"
+    title = "rules"
     url = "/rules/"
     weight = 4
     
