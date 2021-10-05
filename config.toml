@@ -4,7 +4,7 @@ languageCode = "se"
 title = "FFF KM 2021"
 author = "FFF Sportchefer"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "G-4S738L75GH"
 disqusShortname = ""
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
@@ -80,7 +80,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
+      url       = "hhttps://www.facebook.com/groups/7290330793"
   [[params.social]]
   #    icon      = "instagram" # icon name without the 'fa-'
   #    icon_pack = "fab"
