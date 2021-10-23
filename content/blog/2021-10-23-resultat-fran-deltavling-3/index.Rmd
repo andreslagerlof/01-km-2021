@@ -75,7 +75,7 @@ df <- tot %>%
   # filter for current competition
   filter(comp_no == 3) %>%
   select(-comp_no) %>% 
-  arrange(desc(points)) %>% 
+  arrange(place) %>% 
   drop_na(points) %>% 
   rename(Namn = name, Placering = place, Poäng = points)
 ```
