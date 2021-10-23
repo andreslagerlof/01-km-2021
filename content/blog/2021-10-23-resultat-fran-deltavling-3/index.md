@@ -127,6 +127,11 @@ Låt oss titta på resultatet från torsdagens tävling:
    <td style="text-align:right;"> 18 </td>
    <td style="text-align:right;"> 1 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> Teodor Dahlin </td>
+   <td style="text-align:right;"> 19 </td>
+   <td style="text-align:right;"> 1 </td>
+  </tr>
 </tbody>
 </table>
 
@@ -346,6 +351,14 @@ Om vi tittar på totalsammanställningen kan vi konstatera att Tor fortfarande �
   </tr>
   <tr>
    <td style="text-align:right;"> 26 </td>
+   <td style="text-align:left;"> Teodor Dahlin </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 27 </td>
    <td style="text-align:left;"> Selma Källström </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
@@ -353,7 +366,7 @@ Om vi tittar på totalsammanställningen kan vi konstatera att Tor fortfarande �
    <td style="text-align:right;"> 1 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 26 </td>
+   <td style="text-align:right;"> 27 </td>
    <td style="text-align:left;"> Sebastian Holmström </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
@@ -361,15 +374,7 @@ Om vi tittar på totalsammanställningen kan vi konstatera att Tor fortfarande �
    <td style="text-align:right;"> 1 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 26 </td>
-   <td style="text-align:left;"> Teodor Dahlin </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 26 </td>
+   <td style="text-align:right;"> 27 </td>
    <td style="text-align:left;"> Chirstoffer Unde </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
