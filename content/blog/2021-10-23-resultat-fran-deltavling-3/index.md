@@ -63,12 +63,12 @@ Låt oss titta på resultatet från torsdagens tävling:
    <td style="text-align:right;"> 15 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Johan Ström </td>
+   <td style="text-align:left;"> Joakim Ramsberg </td>
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:right;"> 13 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Joakim Ramsberg </td>
+   <td style="text-align:left;"> Johan Ström </td>
    <td style="text-align:right;"> 7 </td>
    <td style="text-align:right;"> 12 </td>
   </tr>
@@ -186,8 +186,8 @@ Om vi tittar på totalsammanställningen kan vi konstatera att Tor fortfarande �
    <td style="text-align:left;"> Johan Ström </td>
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:right;"> 19 </td>
-   <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 43 </td>
+   <td style="text-align:right;"> 12 </td>
+   <td style="text-align:right;"> 42 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 6 </td>
@@ -218,8 +218,8 @@ Om vi tittar på totalsammanställningen kan vi konstatera att Tor fortfarande �
    <td style="text-align:left;"> Joakim Ramsberg </td>
    <td style="text-align:right;"> 10 </td>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 34 </td>
+   <td style="text-align:right;"> 13 </td>
+   <td style="text-align:right;"> 35 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 10 </td>
