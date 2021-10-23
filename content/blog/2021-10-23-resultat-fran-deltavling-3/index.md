@@ -22,7 +22,7 @@ Om någon var osäker på Grigoris kapacitet så räcker en titt på tävlingspr
 
 Efter Grigori var det ett annat bekant namn som statuerade exempel: Tor som återigen tog en stark 2:a plats, den tredje raka 2:a placeringen. Även det en kraftuppvisning! CH som inte kände sig nöjd med sin insats i föregående tävling fick nu återigen träda fram i rampljuset med en 3:e plats.
 
-I övrigt var det extra roligt att denna gång få välkomna Alberto, Fredrick och Christoffer tävlingsdebut för säsongen.
+I övrigt var det extra roligt att denna gång få välkomna Alberto, Fredrick och Christoffer som alla gjorde tävlingsdebut för säsongen.
 
 
 
