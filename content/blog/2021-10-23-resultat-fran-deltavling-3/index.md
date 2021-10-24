@@ -1,5 +1,5 @@
 ---
-title: Resultat från deltävlng 3
+title: Resultat från deltävling 3
 author: ''
 date: '2021-10-23'
 slug: resultat-fran-deltavling-3
