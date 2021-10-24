@@ -14,11 +14,9 @@ excerpt: "Det drar i hop sig, efter tre fäktade deltävlingar börjar ett möns
 
 
 
-![Protokoll från deltävling 3](km3_tabl%C3%A5.jpg)
+![Protokoll från deltävling 3](tabl%C3%A53.jpg)
 
 Ni vet ju sedan tidigare att KM-torsdagar är något speciellt och torsdagen den 21:e var sannerligen inget undantag! Denna gång var det 19 adrenalinstinna fäktare som frenetiskt tog sig an den stora utmaningen att mäta sina krafter mot varandra.
-
-## test 
 
 Om någon var osäker på Grigoris kapacitet så räcker en titt på tävlingsprotokollet för att skingra detta tvivel -- 18 segrar av 18 möjliga, eller "rent hus"! Att hålla koncentrationen uppe en hel kväll på det sättet är en prestation. Det är bara att lyfta på hatten.
 
