@@ -18,9 +18,9 @@ excerpt: "Näst sista deltävlingen klar och Karsten skickar ett tydligt budskap
 
 
 
-I torsdags var det återigen dags att göra upp i KM-kampen. För er som glömt bort hur det gått hittills kommer en snabb sammanfattning: Grigori som stod över den första deltävlingen klev in i deltävling 2 har därefter tagit 2 raka segrar, Tor har hittills inte släppt ifrån sig en enda 2:a plats, 3:e platsen har delats mellan CH (2 gånger) och Johan Ström (1 gång).
+I torsdags var det återigen dags att göra upp i KM-kampen. För er som glömt bort hur det gått hittills kommer en snabb sammanfattning: Grigori som stod över den första deltävlingen klev in i deltävling 2 och har därefter tagit 2 raka segrar, Tor har hittills inte släppt ifrån sig en enda 2:a plats, 3:e platsen har delats mellan CH (2 gånger) och Johan Ström (1 gång).
 
-Men Karsten då! Kanske ni undrar? Ja, det är en högst relevant fråga. Karsten presenterade sig myndigt i KM:s 1:a deltävling genom att kamma hem segern. Därefter har han lite klädsamt låtit andra få pröva sina vingar, men han har hela tiden haft god uppsikt över startfältet från en 5:e och 6:e plats. Vi kan också konstatera att han aldrig varit sämre än 2:a i totalsammanställningen. I torsdag bestämde sig Karsten att återigen visa var skåpet skulle stå genom att erövra sin andra seger på ett resolut sätt.
+Men Karsten då! Kanske ni undrar? Ja, det är en högst relevant fråga. Karsten presenterade sig myndigt i KM:s 1:a deltävling genom att kamma hem segern. Därefter har han lite klädsamt låtit andra få pröva sina vingar, men han har hela tiden haft god uppsikt över startfältet från en 5:e och 6:e plats. Vi kan också konstatera att han aldrig varit sämre än 2:a i totalsammanställningen. I torsdag bestämde sig Karsten för att återigen visa var skåpet skulle stå genom att erövra sin andra seger på ett resolut sätt.
 
 Karsten fick dock inte segern till skänks. Efter att ha betat av hela startfältet bestående av 17 motståndare visade det sig att två fäktare skiljt ut sig från de övriga genom att ha samlat ihop 15 segrar var: Ernest och Karsten. Det krävdes därför en omfäktning innan Karsten slutligen kunde utropa sig som segrare. Bra jobbat Ernest och Karsten!
 
