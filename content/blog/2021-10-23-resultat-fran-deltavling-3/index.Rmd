@@ -91,7 +91,9 @@ kable(df) %>%
   kable_styling(bootstrap_options = "striped", full_width = F, position = "left")
 ```
 
-Om vi tittar på totalsammanställningen kan vi konstatera att Tor fortfarande är i ledning och har drygat ut avståndet till Karsten som alltjämt är på 2:a plats. Bakom dessa båda stormar Grigori upp på en 3:e plats, tätt följd av CH som också klättrat en placering. Här har ni tabellen i sin helhet:
+Om vi tittar på totalsammanställningen kan vi konstatera att Tor fortfarande är i ledning och har drygat ut avståndet till Karsten som alltjämt är på 2:a plats. Bakom dessa båda stormar Grigori upp på en 3:e plats, tätt följd av CH som också klättrat en placering.
+
+Här har ni tabellen i sin helhet:
 
 ```{r standings_table, echo=FALSE, message=FALSE, warning=FALSE}
 
