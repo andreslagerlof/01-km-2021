@@ -20,7 +20,7 @@ I torsdags avverkades den sista av årets 5 KM-deltävlingar. Liksom tidigare va
 
 Vi visste hela tiden att kampen om KM-titeln skulle bli jämn och denna profetia besannades med råge. Inför sista deltävlingen var det Tor och Karsten som låg i vinnarspåret. På papperet såg Tors ledning liten men stabil ut med ett försprång på 5 poäng. Men för att få en rättvisande bild över ställningen måste man också ta hänsyn till tävlingsreglerna som säger att man får räkna de 4 bästa resultaten. Om man inför den sista tävlingen räknade bort respektive fäktares sämsta resultat kunde man konstatera att Tors ledning krympte till endast en ynka poäng. Scenen var därmed förberedd för ett gastkramande skådespel!
 
-Även i kampen om 3:e platsen var det upplagt för en nagelbitare. CH har haft ett till synes stabilt grepp om 3:e platsen, men även fanns orosmoln dom inte kunde ignoreras. Grigori har inte kunnat vara med i samtliga deltävlingar, men när han väl varit mer har han hittills alltid gått ut med segern. Om detta mönster skulle upprepa sig skulle Grigori kunna samla ihop hela 75 poäng, vilket skulle göra CH:s möjlighet att lägga rabarber på 3:e platsen högst osäker.
+Även i kampen om 3:e platsen var det upplagt för en nagelbitare. CH har haft ett till synes stabilt grepp om 3:e platsen, men även fanns orosmoln som inte kunde ignoreras. Grigori har inte kunnat vara med i samtliga deltävlingar, men när han väl varit mer har han hittills alltid gått ut med segern. Om detta mönster skulle upprepa sig skulle Grigori kunna samla ihop hela 75 poäng, vilket skulle göra CH:s möjlighet att lägga rabarber på 3:e platsen högst osäker.
 
 Så vad hände då? Låt oss ta en titt på resultatlistan:
 
@@ -122,7 +122,7 @@ Så vad hände då? Låt oss ta en titt på resultatlistan:
 
 Mycket riktigt, Grigori blev återigen för svår för alla de samlade fäktarna. Tre starter, tre segrar och 75 poäng, ett imponerande facit! CH kunde med ytterligare en 3:e plats och genom att tillgodoräkna sig fyra deltävlingar, men minsta möjliga marginal hålla Grigori bakom sig och pusta ut som total 3:a i tävlingen.
 
-I kampen om totalsegern utvecklades dock kvällen till Karstens fördel. Vid kvällens slut hade Karsten radat upp 12 segrar vilket gav honom en 2:a plats. Med 2:a platsen säkrad kunde därför Karsten senare under kvällen höja KM-plaketten mot taket.
+Kampen om totalsegern utvecklades kvällen till Karstens fördel. Vid kvällens slut hade Karsten radat upp 12 segrar vilket gav honom en 2:a plats. Med 2:a platsen säkrad kunde därför Karsten senare under kvällen höja KM-plaketten mot taket.
 
 För de av er som är väl införstådda i KM-plakettens stolta historia vet också att det inte är första gången Karsten har slutat som segrare. Redan 2002 gav Karsten upphov till en inristning i KM-plaketten. Att efter 19 år kunna hålla en så hög kvalitet i fäktningen är värd all respekt.
 
