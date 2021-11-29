@@ -29,8 +29,6 @@ Vi visste hela tiden att kampen om KM-titeln skulle bli jämn och denna profetia
 
 Så vad hände då? Låt oss ta en titt på resultatlistan:
 
-> OBS! Vi ber återigen om ursäkt för att vi ännu inte har lyckats lösa problemen med bokstäverna Å, Ä och Ö i tabellerna
-
 ```{r data_prep, echo=FALSE, message=FALSE, warning=FALSE}
 # Prepare data ----
 
