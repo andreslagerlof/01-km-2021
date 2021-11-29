@@ -24,8 +24,6 @@ Vi visste hela tiden att kampen om KM-titeln skulle bli jämn och denna profetia
 
 Så vad hände då? Låt oss ta en titt på resultatlistan:
 
-> OBS! Vi ber återigen om ursäkt för att vi ännu inte har lyckats lösa problemen med bokstäverna Å, Ä och Ö i tabellerna
-
 
 
 <table class="table table-striped" style="width: auto !important; ">
@@ -58,7 +56,7 @@ Så vad hände då? Låt oss ta en titt på resultatlistan:
    <td style="text-align:right;"> 17 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ian B&lt;e4&gt;cksr&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Ian Bäcksröm </td>
    <td style="text-align:right;"> 5 </td>
    <td style="text-align:right;"> 15 </td>
   </tr>
@@ -83,7 +81,7 @@ Så vad hände då? Låt oss ta en titt på resultatlistan:
    <td style="text-align:right;"> 10 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Johan Str&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Johan Ström </td>
    <td style="text-align:right;"> 10 </td>
    <td style="text-align:right;"> 9 </td>
   </tr>
@@ -93,12 +91,12 @@ Så vad hände då? Låt oss ta en titt på resultatlistan:
    <td style="text-align:right;"> 8 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ludvig Dahlstr&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Ludvig Dahlström </td>
    <td style="text-align:right;"> 12 </td>
    <td style="text-align:right;"> 7 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Clara S&lt;f6&gt;v&lt;e5&gt;g </td>
+   <td style="text-align:left;"> Clara Sövåg </td>
    <td style="text-align:right;"> 13 </td>
    <td style="text-align:right;"> 6 </td>
   </tr>
@@ -113,7 +111,7 @@ Så vad hände då? Låt oss ta en titt på resultatlistan:
    <td style="text-align:right;"> 4 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Mio &lt;d6&gt;berg </td>
+   <td style="text-align:left;"> Mio Öberg </td>
    <td style="text-align:right;"> 16 </td>
    <td style="text-align:right;"> 3 </td>
   </tr>
@@ -213,7 +211,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 7 </td>
-   <td style="text-align:left;"> Johan Str&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Johan Ström </td>
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:right;"> 19 </td>
    <td style="text-align:right;"> 12 </td>
@@ -246,7 +244,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 10 </td>
-   <td style="text-align:left;"> Ian B&lt;e4&gt;cksr&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Ian Bäcksröm </td>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:right;"> 7 </td>
    <td style="text-align:right;"> 7 </td>
@@ -268,7 +266,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:left;"> &lt;c5&gt;sa Linde </td>
+   <td style="text-align:left;"> Åsa Linde </td>
    <td style="text-align:right;"> 15 </td>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:right;"> NA </td>
@@ -312,7 +310,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 15 </td>
-   <td style="text-align:left;"> Ludvig Dahlstr&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Ludvig Dahlström </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
@@ -334,7 +332,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 17 </td>
-   <td style="text-align:left;"> Peter Franz&lt;e9&gt;n </td>
+   <td style="text-align:left;"> Peter Franzén </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:right;"> NA </td>
@@ -356,7 +354,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 20 </td>
-   <td style="text-align:left;"> Thomas Sch&lt;f6&gt;ler </td>
+   <td style="text-align:left;"> Thomas Schöler </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:right;"> NA </td>
@@ -367,7 +365,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 21 </td>
-   <td style="text-align:left;"> Clara S&lt;f6&gt;v&lt;e5&gt;g </td>
+   <td style="text-align:left;"> Clara Sövåg </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
@@ -411,7 +409,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 23 </td>
-   <td style="text-align:left;"> Alex P&lt;f6&gt;ntinen </td>
+   <td style="text-align:left;"> Alex Pöntinen </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
@@ -422,7 +420,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 23 </td>
-   <td style="text-align:left;"> Mio &lt;d6&gt;berg </td>
+   <td style="text-align:left;"> Mio Öberg </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
@@ -510,7 +508,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 34 </td>
-   <td style="text-align:left;"> Selma K&lt;e4&gt;llstr&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Selma Källström </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> NA </td>
@@ -521,7 +519,7 @@ Här har vi det sammanlagda slutresultatet:
   </tr>
   <tr>
    <td style="text-align:right;"> 34 </td>
-   <td style="text-align:left;"> Sebastian Holmstr&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Sebastian Holmström </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> NA </td>
