@@ -82,8 +82,6 @@ CH kunde glädjas åt att lägga ytterligare en meriterande 3:e plats till sin s
 
 Det är också glädjande att se att Ludvig, Axel, Mio och Clara äntligen har gjort sin tävlingsdebut i KM! Varmt välkomna!
 
-> OBS! I tabellerna har vi fått problem med bokstäverna Å, Ä och Ö. Vi ber om ursäkt för detta och arbetar med att försöka lösa detta problem.
-
 Låt oss se på torsdagens resultat:
 
 ```{r competition_resutls, echo=FALSE, message=FALSE, warning=FALSE}
