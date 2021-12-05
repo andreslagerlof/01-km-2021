@@ -68,7 +68,7 @@ Låt oss titta på resultatet från torsdagens tävling:
    <td style="text-align:right;"> 13 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Johan Str&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Johan Ström </td>
    <td style="text-align:right;"> 7 </td>
    <td style="text-align:right;"> 12 </td>
   </tr>
@@ -93,7 +93,7 @@ Låt oss titta på resultatet från torsdagens tävling:
    <td style="text-align:right;"> 8 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ian B&lt;e4&gt;cksr&lt;f6&gt;m </td>
+   <td style="text-align:left;"> Ian Bäcksröm </td>
    <td style="text-align:right;"> 12 </td>
    <td style="text-align:right;"> 7 </td>
   </tr>
@@ -153,19 +153,19 @@ Här har ni tabellen i sin helhet:
 <tbody>
   <tr>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> Tor Forsse </td>
-   <td style="text-align:right;"> 22 </td>
-   <td style="text-align:right;"> 22 </td>
-   <td style="text-align:right;"> 22 </td>
-   <td style="text-align:right;"> 83 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 2 </td>
    <td style="text-align:left;"> Karsten Kaping </td>
    <td style="text-align:right;"> 25 </td>
    <td style="text-align:right;"> 13 </td>
    <td style="text-align:right;"> 15 </td>
-   <td style="text-align:right;"> 78 </td>
+   <td style="text-align:right;"> 100 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:left;"> Tor Forsse </td>
+   <td style="text-align:right;"> 22 </td>
+   <td style="text-align:right;"> 22 </td>
+   <td style="text-align:right;"> 22 </td>
+   <td style="text-align:right;"> 94 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 3 </td>
@@ -173,15 +173,15 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 19 </td>
    <td style="text-align:right;"> 10 </td>
    <td style="text-align:right;"> 19 </td>
-   <td style="text-align:right;"> 67 </td>
+   <td style="text-align:right;"> 86 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 4 </td>
-   <td style="text-align:left;"> Ernests Cimborevic </td>
-   <td style="text-align:right;"> 13 </td>
-   <td style="text-align:right;"> 17 </td>
-   <td style="text-align:right;"> 9 </td>
-   <td style="text-align:right;"> 61 </td>
+   <td style="text-align:left;"> Grigori Beskin </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 25 </td>
+   <td style="text-align:right;"> 25 </td>
+   <td style="text-align:right;"> 75 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 5 </td>
@@ -189,18 +189,42 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 9 </td>
    <td style="text-align:right;"> 15 </td>
    <td style="text-align:right;"> 17 </td>
-   <td style="text-align:right;"> 56 </td>
+   <td style="text-align:right;"> 73 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 6 </td>
-   <td style="text-align:left;"> Grigori Beskin </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 25 </td>
-   <td style="text-align:right;"> 25 </td>
-   <td style="text-align:right;"> 50 </td>
+   <td style="text-align:left;"> Ernests Cimborevic </td>
+   <td style="text-align:right;"> 13 </td>
+   <td style="text-align:right;"> 17 </td>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:right;"> 61 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 7 </td>
+   <td style="text-align:left;"> Johan Ström </td>
+   <td style="text-align:right;"> 11 </td>
+   <td style="text-align:right;"> 19 </td>
+   <td style="text-align:right;"> 12 </td>
+   <td style="text-align:right;"> 51 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:left;"> Darius Lai </td>
+   <td style="text-align:right;"> 17 </td>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:right;"> 10 </td>
+   <td style="text-align:right;"> 49 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 9 </td>
+   <td style="text-align:left;"> Ian Bäcksröm </td>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:right;"> 48 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 10 </td>
    <td style="text-align:left;"> Joakim Ramsberg </td>
    <td style="text-align:right;"> 10 </td>
    <td style="text-align:right;"> 12 </td>
@@ -208,23 +232,7 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 47 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 8 </td>
-   <td style="text-align:left;"> Johan Str&lt;f6&gt;m </td>
    <td style="text-align:right;"> 11 </td>
-   <td style="text-align:right;"> 19 </td>
-   <td style="text-align:right;"> 12 </td>
-   <td style="text-align:right;"> 42 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 9 </td>
-   <td style="text-align:left;"> Darius Lai </td>
-   <td style="text-align:right;"> 17 </td>
-   <td style="text-align:right;"> 9 </td>
-   <td style="text-align:right;"> 10 </td>
-   <td style="text-align:right;"> 36 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 9 </td>
    <td style="text-align:left;"> Lukas Marcos </td>
    <td style="text-align:right;"> 12 </td>
    <td style="text-align:right;"> NA </td>
@@ -232,16 +240,8 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 36 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 11 </td>
-   <td style="text-align:left;"> Ian B&lt;e4&gt;cksr&lt;f6&gt;m </td>
-   <td style="text-align:right;"> 8 </td>
-   <td style="text-align:right;"> 7 </td>
-   <td style="text-align:right;"> 7 </td>
-   <td style="text-align:right;"> 33 </td>
-  </tr>
-  <tr>
    <td style="text-align:right;"> 12 </td>
-   <td style="text-align:left;"> &lt;c5&gt;sa Linde </td>
+   <td style="text-align:left;"> Åsa Linde </td>
    <td style="text-align:right;"> 15 </td>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:right;"> NA </td>
@@ -249,11 +249,11 @@ Här har ni tabellen i sin helhet:
   </tr>
   <tr>
    <td style="text-align:right;"> 13 </td>
-   <td style="text-align:left;"> Hugo Wik </td>
-   <td style="text-align:right;"> 7 </td>
-   <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 8 </td>
-   <td style="text-align:right;"> 17 </td>
+   <td style="text-align:left;"> Fernando Bodin </td>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:right;"> 22 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 14 </td>
@@ -261,10 +261,26 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 4 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> 2 </td>
-   <td style="text-align:right;"> 15 </td>
+   <td style="text-align:right;"> 19 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 15 </td>
+   <td style="text-align:left;"> Hugo Wik </td>
+   <td style="text-align:right;"> 7 </td>
+   <td style="text-align:right;"> 2 </td>
+   <td style="text-align:right;"> 8 </td>
+   <td style="text-align:right;"> 17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 15 </td>
+   <td style="text-align:left;"> Ludvig Dahlström </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 17 </td>
    <td style="text-align:left;"> Carl-Johan Wiman </td>
    <td style="text-align:right;"> 3 </td>
    <td style="text-align:right;"> NA </td>
@@ -272,39 +288,47 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 13 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 15 </td>
-   <td style="text-align:left;"> Peter Franz&lt;e9&gt;n </td>
+   <td style="text-align:right;"> 17 </td>
+   <td style="text-align:left;"> Peter Franzén </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 13 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 17 </td>
-   <td style="text-align:left;"> Fernando Bodin </td>
-   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:right;"> 19 </td>
+   <td style="text-align:left;"> Mathias Elmfeldt </td>
    <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 6 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 12 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 18 </td>
-   <td style="text-align:left;"> Thomas Sch&lt;f6&gt;ler </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 11 </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 11 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 19 </td>
-   <td style="text-align:left;"> Ludvig Dahlstr&lt;f6&gt;m </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 10 </td>
-  </tr>
-  <tr>
    <td style="text-align:right;"> 20 </td>
+   <td style="text-align:left;"> Thomas Schöler </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 11 </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 11 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 21 </td>
+   <td style="text-align:left;"> Clara Sövåg </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 21 </td>
+   <td style="text-align:left;"> Kurt Benkestock </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 23 </td>
    <td style="text-align:left;"> Teodor Dahlin </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
@@ -312,15 +336,31 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 6 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 20 </td>
-   <td style="text-align:left;"> Alex P&lt;f6&gt;ntinen </td>
+   <td style="text-align:right;"> 23 </td>
+   <td style="text-align:left;"> Chirstoffer Unde </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 23 </td>
+   <td style="text-align:left;"> Alex Pöntinen </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 6 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 22 </td>
+   <td style="text-align:right;"> 23 </td>
+   <td style="text-align:left;"> Mio Öberg </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> NA </td>
+   <td style="text-align:right;"> 6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:right;"> 27 </td>
    <td style="text-align:left;"> Holger Claesson </td>
    <td style="text-align:right;"> 5 </td>
    <td style="text-align:right;"> NA </td>
@@ -328,7 +368,7 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 5 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 22 </td>
+   <td style="text-align:right;"> 27 </td>
    <td style="text-align:left;"> Fredrik Karlsson </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 5 </td>
@@ -336,7 +376,7 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 5 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 24 </td>
+   <td style="text-align:right;"> 29 </td>
    <td style="text-align:left;"> Anni Vornanen </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 4 </td>
@@ -344,7 +384,7 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 4 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 24 </td>
+   <td style="text-align:right;"> 29 </td>
    <td style="text-align:left;"> Alberto Salazar </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
@@ -352,7 +392,7 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 4 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 26 </td>
+   <td style="text-align:right;"> 31 </td>
    <td style="text-align:left;"> Eden Renda </td>
    <td style="text-align:right;"> 2 </td>
    <td style="text-align:right;"> 1 </td>
@@ -360,7 +400,7 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 3 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 26 </td>
+   <td style="text-align:right;"> 31 </td>
    <td style="text-align:left;"> Olivia Hedberg </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 3 </td>
@@ -368,7 +408,7 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 3 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 26 </td>
+   <td style="text-align:right;"> 31 </td>
    <td style="text-align:left;"> Fredrick Marelius </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
@@ -376,47 +416,23 @@ Här har ni tabellen i sin helhet:
    <td style="text-align:right;"> 3 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 26 </td>
-   <td style="text-align:left;"> Mio &lt;d6&gt;berg </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 3 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 30 </td>
-   <td style="text-align:left;"> Clara S&lt;f6&gt;v&lt;e5&gt;g </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 2 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 31 </td>
-   <td style="text-align:left;"> Selma K&lt;e4&gt;llstr&lt;f6&gt;m </td>
+   <td style="text-align:right;"> 34 </td>
+   <td style="text-align:left;"> Selma Källström </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 31 </td>
-   <td style="text-align:left;"> Sebastian Holmstr&lt;f6&gt;m </td>
+   <td style="text-align:right;"> 34 </td>
+   <td style="text-align:left;"> Sebastian Holmström </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> 1 </td>
   </tr>
   <tr>
-   <td style="text-align:right;"> 31 </td>
-   <td style="text-align:left;"> Chirstoffer Unde </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> NA </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> 1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:right;"> 31 </td>
+   <td style="text-align:right;"> 34 </td>
    <td style="text-align:left;"> Nils Wiklund </td>
    <td style="text-align:right;"> NA </td>
    <td style="text-align:right;"> NA </td>
